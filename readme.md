@@ -1,11 +1,9 @@
-# Mortal Toil
+# Renderer for swimcounter accelerometer data.
 
-Shows you how far through your life you are!
+Lots of help from:
 
-Enter your date of birth and your life expectancy and receive a friendly diagram showing how far you've come and how much longer you have left.
+http://blog.scottlogic.com/2014/09/19/interactive.html
 
-# Logic
+http://bl.ocks.org/mbostock/3883245
 
-Determine how many weeks in life expectency.
-Determine how many weeks since date of birth.
-Fill in that many squares.
+http://bl.ocks.org/mbostock/0533f44f2cfabecc5e3a
